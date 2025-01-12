@@ -1,6 +1,0 @@
-[
-    1: 'Harry Potter',
-    2: 'The Hobbit',
-    3: 'T-SQL Querying',
-    4: 'Data Pipelines with Airflow',
-]
